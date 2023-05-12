@@ -16,14 +16,16 @@ you must first downlaod the ultralytics librairie using (you can also add it via
 pip install ultralytics
 ```
 
-the requirement.txt file must be download like this :
+the requirement.txt file must be download like this. you can find the requirements.txt in the ultralytics github :
 ```
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 
-### hint
+### Hint
 
 here some hint to help you with this excercice :
 - The dataset may not be formated well
 - you only have one big dataset
 - the choice of parameter is really important
+
+### Leaderboard
